@@ -1,0 +1,16 @@
+{
+  "name": "blobsling-shenanigans",
+  "version": "1.0.0",
+  "description": "BlobSling Shenanigans - Physics Puzzle / Ragdoll Casual game for CrazyGames",
+  "scripts": {
+    "dev": "vite --port 3000 --host",
+    "build": "vite build",
+    "preview": "vite preview --port 3000 --host"
+  },
+  "dependencies": {
+    "phaser": "^3.87.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  }
+}
